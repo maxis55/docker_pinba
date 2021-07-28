@@ -11,7 +11,7 @@ Docker compose remaster of https://github.com/pinba-server/pinba-server.
 ## Installation
 ````
 # clone repo
-git clone https://github.com/z0dd/docker_pinba.git && cd cd docker_pinba
+git clone https://github.com/maxis55/docker_pinba.git && cd docker_pinba
 # create env file
 cp .env.example .env
 # start containers
